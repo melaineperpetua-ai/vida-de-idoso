@@ -1,0 +1,8 @@
+{
+  "name": "Remix Viver Bem na Melhor Idade - Longevidade Saudável",
+  "description": "Portal completo sobre qualidade de vida para idosos, segurança residencial, nutrição, mobilidade e prevenção de quedas na terceira idade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
